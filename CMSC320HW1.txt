@@ -1,0 +1,3 @@
+Why are you interested in taking CMSC320?
+
+As someone who has been interested in Computer Science since I was a child, I have always been fascinated in the role data science has played in solving problems. In the modern day data science has played a serious role in answering research questions. The manipulation of data allows us to analyze key points and answering various unique and interesting questions with the help of data.
